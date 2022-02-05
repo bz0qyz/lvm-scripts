@@ -1,0 +1,10 @@
+{
+    "transport": "scp",
+    "hostname": "192.168.8.21",
+    "username": "ubuntu",
+    "port": "22",
+    "useAgent": true,
+    "target": "/home/ubuntu/lvm/",
+    "uploadOnSave": true,
+    "watch": ["/lvm.sh"]
+}
